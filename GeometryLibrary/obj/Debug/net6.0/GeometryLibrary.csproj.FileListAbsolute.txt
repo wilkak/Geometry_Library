@@ -1,0 +1,11 @@
+C:\Users\seryk\source\repos\GeometryLibrary\obj\Debug\net6.0\GeometryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seryk\source\repos\GeometryLibrary\obj\Debug\net6.0\GeometryLibrary.AssemblyInfoInputs.cache
+C:\Users\seryk\source\repos\GeometryLibrary\obj\Debug\net6.0\GeometryLibrary.AssemblyInfo.cs
+C:\Users\seryk\source\repos\GeometryLibrary\obj\Debug\net6.0\GeometryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\seryk\source\repos\GeometryLibrary\bin\Debug\net6.0\GeometryLibrary.deps.json
+C:\Users\seryk\source\repos\GeometryLibrary\bin\Debug\net6.0\GeometryLibrary.dll
+C:\Users\seryk\source\repos\GeometryLibrary\bin\Debug\net6.0\GeometryLibrary.pdb
+C:\Users\seryk\source\repos\GeometryLibrary\obj\Debug\net6.0\GeometryLibrary.dll
+C:\Users\seryk\source\repos\GeometryLibrary\obj\Debug\net6.0\refint\GeometryLibrary.dll
+C:\Users\seryk\source\repos\GeometryLibrary\obj\Debug\net6.0\GeometryLibrary.pdb
+C:\Users\seryk\source\repos\GeometryLibrary\obj\Debug\net6.0\ref\GeometryLibrary.dll

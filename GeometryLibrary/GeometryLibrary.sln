@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryLibrary", "GeometryLibrary.csproj", "{78710E21-D572-4639-8FCB-13BFF7B5F3D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGeometryLibrary.Tests", "..\MyGeometryLibrary.Tests\MyGeometryLibrary.Tests.csproj", "{769B4CC0-5C1F-400B-829D-87195781C456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryLibraryDemo", "..\GeometryLibraryDemo\GeometryLibraryDemo.csproj", "{BA3BC7C8-00AA-481A-B166-EC0EDA991DA4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Задание 3", "Задание 3", "{8E197F06-FDE7-4087-A9F8-F94D0DB18115}"
+	ProjectSection(SolutionItems) = preProject
+		Запрос.sql = Запрос.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78710E21-D572-4639-8FCB-13BFF7B5F3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78710E21-D572-4639-8FCB-13BFF7B5F3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78710E21-D572-4639-8FCB-13BFF7B5F3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78710E21-D572-4639-8FCB-13BFF7B5F3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{769B4CC0-5C1F-400B-829D-87195781C456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769B4CC0-5C1F-400B-829D-87195781C456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769B4CC0-5C1F-400B-829D-87195781C456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769B4CC0-5C1F-400B-829D-87195781C456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA3BC7C8-00AA-481A-B166-EC0EDA991DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA3BC7C8-00AA-481A-B166-EC0EDA991DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA3BC7C8-00AA-481A-B166-EC0EDA991DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA3BC7C8-00AA-481A-B166-EC0EDA991DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7121E82C-1BC7-4C72-A992-40809239B618}
+	EndGlobalSection
+EndGlobal
